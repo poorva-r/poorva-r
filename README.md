@@ -4,7 +4,9 @@
 <h3 align="left">I'm passionate about exploring data science and machine learning in my free time.</h3>
 
 <h3 align="left">Feel free to explore my projects and connect with me!
-<br><br><br>
+  
+<br><br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -32,3 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </p>
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poorva-r&show_icons=true&locale=en&layout=compact" alt="poorva-r" /></p>
