@@ -1,9 +1,9 @@
 <h2 align="left">Hi, I'm Poorva👋</h1>
-<h5 align="left">I'm a Software Developer based in Dubai, UAE. 
-<h5 align="left">Currently, I work as a Software Development Engineer (SDE) at a fintech startup, where I primarily use Python, React and SQL. 
-<h5 align="left">I'm passionate about exploring data science and machine learning in my free time.</h3>
+<h3 align="left">I'm a Software Developer based in Dubai, UAE. 
+<h3 align="left">Currently, I work as a Software Development Engineer (SDE) at a fintech startup, where I primarily use Python, React and SQL. 
+<h3 align="left">I'm passionate about exploring data science and machine learning in my free time.</h3>
 
-<h5 align="left">Feel free to explore my projects and connect with me!
+<h3 align="left">Feel free to explore my projects and connect with me!
   
 <br><br>
 
